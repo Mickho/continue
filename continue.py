@@ -24,5 +24,5 @@ while True:
 		break
 	price = input('Please input price:')
 	price = int(price)
-	producets.append([name, price])
+	products.append([name, price])
 print(products)
